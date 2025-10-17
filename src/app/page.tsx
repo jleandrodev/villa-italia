@@ -79,7 +79,7 @@ export default function Home() {
                 🍕 Pizzas da Casa
               </h3>
               <p className="text-lg text-white/80 mb-8 text-center">
-                (2 pizzas, 4 sabores)
+                (2 sabores)
               </p>
 
               <div className="space-y-6">
@@ -97,37 +97,13 @@ export default function Home() {
                 {/* Pizza 02 */}
                 <div className="border-b border-dotted border-white/30 pb-4">
                   <div className="flex justify-between items-center mb-2">
-                    <h4 className="text-xl font-bold text-white">Calabresa</h4>
+                    <h4 className="text-xl font-bold text-white">
+                      Moda Da Casa
+                    </h4>
                     <span className="text-white/70 font-mono">02</span>
                   </div>
                   <p className="text-white/80 text-sm">
-                    Calabresa artesanal, cebola roxa e orégano
-                  </p>
-                </div>
-
-                {/* Pizza 03 */}
-                <div className="border-b border-dotted border-white/30 pb-4">
-                  <div className="flex justify-between items-center mb-2">
-                    <h4 className="text-xl font-bold text-white">
-                      Quattro Formaggi
-                    </h4>
-                    <span className="text-white/70 font-mono">03</span>
-                  </div>
-                  <p className="text-white/80 text-sm">
-                    Mistura irresistível de queijos italianos
-                  </p>
-                </div>
-
-                {/* Pizza 04 */}
-                <div className="border-b border-dotted border-white/30 pb-4">
-                  <div className="flex justify-between items-center mb-2">
-                    <h4 className="text-xl font-bold text-white">
-                      Frango com Catupiry
-                    </h4>
-                    <span className="text-white/70 font-mono">04</span>
-                  </div>
-                  <p className="text-white/80 text-sm">
-                    Frango desfiado e cremoso catupiry
+                    Frango, catupiry, mussarela e bacon
                   </p>
                 </div>
               </div>
